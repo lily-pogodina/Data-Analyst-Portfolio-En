@@ -58,3 +58,6 @@ Certificates obtained by completing various specialized courses on educational p
 * [Data Preprocessing. Advanced Course](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Dataquest Platform
 * [Python for Data Science. Intermediate Level](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-for-data-science-intermediate.pdf) Dataquest Platform
 * [SQL Fundamentals.](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-sql-fundamentals.pdf) Dataquest Platform
+
+<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru"><b>Русская версия</b></a></p>
+
