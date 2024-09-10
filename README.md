@@ -1,7 +1,5 @@
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru"><b>Русская версия</b></a></p>
 
-<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru" target="_blank"><b>Русская версия</b></a></p>
-
 
 # Data Analyst Portfolio
 
@@ -27,7 +25,7 @@ Personal projects created in my free time.
 </tr>
 <tr>
 <td>1</td>
-<td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Dog_bites_analysys_ru">Studying dog bite data in New York City</a></td>
+<td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Dog_bites_analysys_en">Studying dog bite data in New York City</a></td>
 <td>• Identified areas of the city where the problem of dog attacks is most acute <br>• Tested the hypothesis that seasonality affects the number of bites <br>• Identified aggressive breeds</td>
 <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>preprocessing</mark>, <mark>visualization</mark></td>
 </tr>
