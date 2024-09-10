@@ -2,6 +2,8 @@
 
 ## New York City Dog Bite Data Study.
 
+<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/blob/main/Dog_bites_analysys_en/Dog_bites_analysys_en.ipynb"><b>View project</b></a></p>
+
 We have a dataset containing historical data on dog bites reported in New York City from 2015-2022.
 
 **`Study Objective`**
@@ -22,3 +24,6 @@ We have a dataset containing historical data on dog bites reported in New York C
   * pandas
   * matplotlib 
   * seaborn
+
+<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>Table of contents.</b></a></p>
+
