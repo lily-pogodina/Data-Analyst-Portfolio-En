@@ -53,11 +53,11 @@ These projects were completed during training at Yandex.Practicum, on the course
 ## Certificates
 
 Certificates obtained by completing various specialized courses on educational platforms
-* [Python Specialization.](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/Python_specialization.pdf) Coursera Platform
-* [Statistics in Python](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Dataquest Platform
-* [Data Preprocessing. Advanced Course](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Dataquest Platform
-* [Python for Data Science. Intermediate Level](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-for-data-science-intermediate.pdf) Dataquest Platform
-* [SQL Fundamentals.](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-sql-fundamentals.pdf) Dataquest Platform
+* [Python Specialization.](https://github.com/lily-pogodina/Certificates/blob/main/Python_specialization.pdf) Coursera Platform
+* [Statistics in Python](https://github.com/lily-pogodina/Certificates/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Dataquest Platform
+* [Data Preprocessing. Advanced Course.](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Dataquest Platform
+* [Python for Data Science. Intermediate Level.](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-for-data-science-intermediate.pdf) Dataquest Platform
+* [SQL Fundamentals.](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-sql-fundamentals.pdf) Dataquest Platform
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru"><b>Русская версия</b></a></p>
 
