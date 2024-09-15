@@ -61,3 +61,6 @@ Certificates obtained by completing various specialized courses on educational p
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru"><b>Русская версия</b></a></p>
 
+<sup>Illustration designed by Freepik</sup>
+
+
