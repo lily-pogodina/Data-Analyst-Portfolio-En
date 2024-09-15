@@ -40,11 +40,11 @@ In our study, we found out the average price per square meter in 10 localities w
 
 **`Automation recommendations`**
 
-* It is necessary to analyze the algorithm for obtaining data in the «days_exposition» column. It is worth finding out why the values of 1 and 2 days disappear. You should also pay attention to the frequency of posting ads for a week, 30, 45, 60 and 90 days — perhaps this is related to publication settings.
+* Analyze the algorithm for obtaining data in the «days_exposition» column. It is worth finding out why the values of 1 and 2 days disappear. You should also pay attention to the frequency of posting ads for a week, 30, 45, 60 and 90 days — perhaps this is related to publication settings.
 
 * In the questionnaire, it is necessary to make fields that are filled in manually mandatory (for example, in the «is_apartment» field, you can automatically choose from two values: «Yes» or «No»). It is also worth automatically filling in the field with the name of the location and adding automatic verification of the format of the data entered by the user.
 
-* It is necessary to clarify information about the area, which is located at a distance of 27 km from the city center, to understand the reason for the high average cost of housing in this area.
+* Clarify information about the area, which is located at a distance of 27 km from the city center, to understand the reason for the high average cost of housing in this area.
 
 **`Tools`**
 
