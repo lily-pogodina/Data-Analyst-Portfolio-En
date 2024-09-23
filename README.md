@@ -42,9 +42,17 @@ These projects were completed during training at Yandex.Practicum, on the course
     <th>Description</th>
     <th>Skills and tools</th>
   </tr>
-  <tr>
+
+   <tr>
     <td>1</td>
-    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Real_estate_listings_in_st.Petersburg_sudy_en">Real Estate Listings in St. Petersburg Study.</a></td>
+    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Scooter_Rental_Service_en">A Study of Scooter Rental Service Users and their Trips</a></td>
+    <td>Analysis of users of the GoFast mobile application. In the study, I studied the main parameters, calculated the monthly revenue from each user, and also tested a number of hypotheses that can help the business grow.</td>
+    <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>preprocessing</mark>, <mark>exploratory analysis</mark>, <mark>statistical analysis</mark>, <mark>visualization</mark></td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Real_estate_listings_in_st.Petersburg_sudy_en">Real Estate Listings in St. Petersburg Study</a></td>
     <td>Analysis of Yandex Real Estate data to determine the market value of real estate in St. Petersburg and neighboring towns. The results of the study can help build an automated system for tracking anomalies and     fraudulent activity. </td>
   <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>preprocessing</mark>, <mark>exploratory analysis</mark>, <mark>visualization</mark></td>
   </tr>
