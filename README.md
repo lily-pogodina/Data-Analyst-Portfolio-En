@@ -43,8 +43,17 @@ These projects were completed during training at Yandex.Practicum, on the course
     <th>Skills and tools</th>
   </tr>
 
-   <tr>
+  <tr>
     <td>1</td>
+    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/TED_talks_study_en">Visualizing the history of TED conferences with Tableau.</a></td>
+    <td>
+     The study analyzes the history and content of TED conferences using Tableau tools. As part of the study, dashboards were created that visualize information about conference presentations, their authors, and topics, and track changes in these indicators over the period from 2019 to 2021.
+    </td>
+    <td><mark>Tableau</mark>, <mark>visualization</mark></td>
+  </tr>
+
+   <tr>
+    <td>2</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Video_game_sales_study_en">Analysis of computer game sales data for an online store.</a></td>
     <td>
      Researched historical data on game sales, user and expert ratings, genres and platforms.
@@ -55,14 +64,14 @@ Studied key parameters, calculated total sales for each game, identified pattern
 
 
    <tr>
-    <td>2</td>
+    <td>3</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Scooter_Rental_Service_en">A Study of Scooter Rental Service Users and their Trips</a></td>
     <td>Analysis of users of the GoFast mobile application. In the study, I studied the main parameters, calculated the monthly revenue from each user, and also tested a number of hypotheses that can help the business grow.</td>
     <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>preprocessing</mark>, <mark>exploratory analysis</mark>, <mark>statistical analysis</mark>, <mark>visualization</mark></td>
   </tr>
   
   <tr>
-    <td>3</td>
+    <td>4</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Real_estate_listings_in_st.Petersburg_sudy_en">Real Estate Listings in St. Petersburg Study</a></td>
     <td>Analysis of Yandex Real Estate data to determine the market value of real estate in St. Petersburg and neighboring towns. The results of the study can help build an automated system for tracking anomalies and     fraudulent activity. </td>
   <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>preprocessing</mark>, <mark>exploratory analysis</mark>, <mark>visualization</mark></td>
