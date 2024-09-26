@@ -49,7 +49,7 @@ These projects were completed during training at Yandex.Practicum, on the course
     <td>
      The study analyzes the history and content of TED conferences using Tableau tools. As part of the study, dashboards were created that visualize information about conference presentations, their authors, and topics, and track changes in these indicators over the period from 2019 to 2021.
     </td>
-    <td><mark>Tableau</mark>, <mark>visualization</mark></td>
+    <td><mark>Tableau</mark>, , <mark>exploratory analysis</mark>, <mark>visualization</mark></td>
   </tr>
 
    <tr>
