@@ -1,8 +1,6 @@
+![Заголовок для гита-02](https://github.com/user-attachments/assets/f4060c31-9693-4867-ae1d-231359e6e3b2)
+
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru"><b>Русская версия</b></a></p>
-
-
-# Data Analyst Portfolio
-
 Hi, my name is Lily, this repository contains educational and pet-projects that demonstrate my skills in data analysis.
 ## Contacts
 
