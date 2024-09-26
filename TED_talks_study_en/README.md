@@ -2,7 +2,7 @@
 
 
 ## Visualizing the History of TED Conferences with Tableau.
-<p align="center"><a href="https://public.tableau.com/views/Ted-Talk_ru/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><b>View Project on Tableau Public</b></a></p>
+<p align="center"><a href="https://public.tableau.com/views/Ted-Talk_en/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"><b>View Project on Tableau Public</b></a></p>
 
 TED (from English technology, education, design) is a non-profit foundation that holds popular conferences. They feature experts from various fields who give lectures on current social, cultural and scientific topics.
 
