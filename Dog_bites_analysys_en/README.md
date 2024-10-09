@@ -2,7 +2,7 @@
 
 ## New York City Dog Bite Data Study.
 
-<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/blob/main/Dog_bites_analysys_en/Dog_bites_analysys_en.ipynb"><b>View project</b></a></p>
+<p align="center"><a href="https://nbviewer.org/github/lily-pogodina/Data-Analyst-Portfolio-En/blob/main/Dog_bites_analysys_en/Dog_bites_analysys_en.ipynb"><b>View project</b></a></p>
 
 We have a dataset containing historical data on dog bites reported in New York City from 2015-2022.
 
