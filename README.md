@@ -79,6 +79,7 @@ Studied key parameters, calculated total sales for each game, identified pattern
 ## Certificates
 
 Certificates obtained by completing various specialized courses on educational platforms
+* [Data Analyst Bootcamp.](https://github.com/lily-pogodina/Certificates/blob/main/%D0%A1ertificate_ENG_%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_2024-8874-004.pdf) Yandex.Practicum
 * [Python Specialization.](https://github.com/lily-pogodina/Certificates/blob/main/Python_specialization.pdf) Coursera Platform
 * [Statistics in Python](https://github.com/lily-pogodina/Certificates/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Dataquest Platform
 * [Data Preprocessing. Advanced Course.](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Dataquest Platform
